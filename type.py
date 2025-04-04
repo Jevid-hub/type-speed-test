@@ -32,3 +32,4 @@ print("Accuracy :",acc)
 
 print("Correct characters :", correct_characters)
 print("Time taken :",time_taken)
+
